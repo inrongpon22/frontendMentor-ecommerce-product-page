@@ -1,6 +1,6 @@
 import React from 'react'
 import { useState } from 'react'
-import data from './Data.json'
+import data from './Data.js'
 import LightBox from './LightBox'
 import prevIcon from '../images/icon-previous.svg'
 import nextIcon from '../images/icon-next.svg'
